@@ -1,0 +1,9 @@
+Model,Train Score,Test Score
+Multinomial Naive Bayes with Count Vectorizer,0.9415257020857284,0.9259496477311918
+Multinomial Naive Bayes with Tfid Vectorizer,0.9311299063885695,0.9179435384539587
+Random Forest with Count Vectorizer,0.9944818525209393,0.9043701039562497
+Random Forest with Tfid Vectorizer,0.9280916406634916,0.9170567078878652
+Extra Trees with Count Vectorizer,0.998127771391033,0.8979405823520717
+Extra Trees with Tfid Vectorizer,0.9984233864345541,0.9058481548997389
+Logistic Regression with Count Vectorizer,0.984455575628182,0.9389564960338966
+Logistic Regression with Tfid Vectorizer,0.9551650517326327,0.9389072276691136

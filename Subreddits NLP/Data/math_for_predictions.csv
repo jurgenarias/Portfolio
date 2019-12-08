@@ -1,0 +1,532 @@
+post
+Who’s in Full Burn Out Mode? The burn out is real.
+Tweeted [removed]
+"Any ideas where to begin my educational journey in learning Data Science? I know this is a big question. And I know that DS encompasses so many different fields of technology and mathematics that getting off on the right foot while searching through MOOC's can make your head spin. 
+
+So I'll lay out my skills: I have very barebones Python experience. By ""barebones"", I mean I took one course in college that focused on Python that I ended up dropping because I was taking seven courses to graduate on time. I also used some SQL for a database course I had which mainly glossed over it. As for math, I only took one stats course that I don't really remember much about and just barely got through calc in my last semester.
+
+If someone could just point me in the right direction, whether that be to educational resources or a different sub because you're tired of seeing this kind of post here, I'd appreciate it."
+need help with theorems [removed]
+Real world applications of calculus ? Examples other than the stock trading pls
+"Building ramps for old folks I have a need for an equation. I am part of a group that build ramps for poor older folks that have a hard time getting into their homes. Ill try to make this simple but I need to show cost savings of more expensive ramps over time. There are a few variables but the goal is to help the most people for the least amount spent. Usually people who get these installed are at the end of their days. We have been building ramps out of wood, specific to each job and these do not get reused. People lives sometimes only weeks after being built, sometimes years. 
+
+I would like to start using aluminum sections but they have a considerable cost. My last wood ramp cost $500, the aluminum equivalent is $2000. The aluminum ramp would be reusable but only makes sense over a certain amount of time. 
+
+How can I find the cost benefit over time in equation form?
+
+Thanks all!"
+"Tips on finding research areas as an undergraduate So I'd like to just start this out by saying that I have never really used reddit, so I am still kind of learning how to do different things on here.
+
+I am making this post because I am a sophomore in undergrad studying math right now, and want to start learning about fields of math that have research possibilities. The only problem is that I have absolutely no clue where to start looking. Does anyone on here have any tips or suggestions on fields that I could read into? I am currently in Linear algebra and combinatorics."
+Tweeted [removed]
+Proof of substitution of multiple variables in integration [removed]
+"What research has there been into “oracles” for uncomputable functions, such as Kolmogorov complexity? It’s a bit hard to figure out quite how to word this question, due to my lack of real knowledge of the field - so apologies if I asked a question as wide as an ocean. Feel free in that case to add specificity wherever you like. 
+
+I understand and remember reading about the concept of an “oracle”, with respect to Turing machines. As I understand it, the idea was first used as a first step in the proof that the Halting problem is not solvable. 
+
+Let T be a universal Turing machine, and assume there exists a machine O which answers the question “does U eventually halt when given input X” for any X. Assume that U is itself a Turing machine and hey presto you get a contradiction. 
+
+What I am curious about is the idea of oracles for other “unanswerable” questions. More specifically: 
+
+1. What is the extent of research (which I know enough to at least know exists) in this area? What are some of the problems and important results? 
+
+2. As a bit of nice daydreaming, what would the applications be if, say, someone asked a genie for an oracle for a specific such function? For example, what would the applications be of having a machine that could take any string of bits and output it’s Kolmogorov complexity, or better yet it’s actual shortest description relative to some T?
+
+What made me think about this question was noticing YouTube had an issue loading a rotating 3D grid in a video I was watching, despite the informational complexity of how each frame changes is probably not too bad. 
+
+I understand a lot of video compression algorithms use methods similar to only storing the changes in each pixel, and I would presume an oracle for minimal length Kolmogorov descriptions would essentially give the best possible compression algorithm. Part of me then wondered - how much of a difference would such an algorithm *really* make? How much would we benefit from having access to these unanswerable questions?"
+"is a Cube whose sides are Concave Spheres a ""Concave Superellipsoid""? or is there another name for it? I was answering a question for someone, about this Shape.   
+Based on what I know, I told him it was a Concave Superellipsoid. It meets the (super) basic  definition of a transitioning sphere distorted on multiple axis, so I'm about 80% sure that it would fit. 
+
+However, its been YEARS since I've dealt with this kind of more complex shape.  
+
+Is there something that more accurately describes it? or maybe is there a common name for it? 
+
+I guess another way to look at it would be a Sphere distorted by Lamé curves on all 6 primary axis as well.   
+
+
+https://i.redd.it/rq5cxfrut0t31.png"
+Hey little buddy FUCK math and fuck you too
+"Can someone explain trigonometric functions? I understand the basics, but as they relate to a circle I’m not picking it up."
+"NCERT Solution for Class 6 Maths Chapter 3  
+
+NCERT Solution for Class 6 Maths Chapter 3 Playing with Numbers, In this chapter of class 6 we discuss about following topic:
+
+In this chapter we learn factors and Multiples, prime and composite numbers, Divisibility by the numbers, common factors and common multiples etc.
+
+Students can access the solution from the given link below:
+
+* [Solution Exercise 3.1](https://www.msipg.com/ncert-solution-for-class-6-maths-chapter-3/#Exercise-3.1)
+* [Solution Exercise 3.2](https://www.msipg.com/ncert-solution-for-class-6-maths-chapter-3/#Exercise-3.2)"
+Pi is not a number [https://www.youtube.com/watch?v=ZygwWv5ECD4](https://www.youtube.com/watch?v=ZygwWv5ECD4&amp;t=643s)
+Tweeted [removed]
+"I need help figuring out how to demonstrate to my boss at a bar how much busier we will need to be to justify more bartenders working. So I'm trying to solve this real world work issue but my math skills have not been tested in an a while and I need help. 
+
+The issue is I work at a bar at a restaurant. We split tips based on the number of bartenders and how long each worked. Basically how it works is during weekdays we run with 2 bartenders bc were slower, sales are less, and the overall bartender tip pool is lower. On weekends we have 3 bartenders bc we're busier, have higher sales, and have a larger bartender tip pool to share. Since we're busier on the weekend it justifies having the extra bartender because for example on a Monday 2 bartenders would be splitting $200 in tips off $1,000 in sales, so for ease we'll say they each get $100 pay. on a Friday we'll split $300 in tips based off $1,500 in sales 3 ways, still all getting $100 pay. (This is assuming 20% tip average and all bartenders work the same hours which I will assume throughout). 
+
+So hopefully I illustrated that to justify having an extra bartender we have to have higher sales and be considered ""busier"" for every bartender to make the same money. In this case we had to be 50% busier and sell $500 more for 3 bartenders to make the same as 2 bartenders selling $1,000. 
+
+The problem Im facing is that my restaurant is having a complete remodel and as a result they expect us to be busier, estimates are 15-20% more sales over the next year. Since management thinks we will be busier they want to add an extra bartender each night. So instead of 2 bartenders on Sun-Thurs they want 3, and on Fri and Sat they want 4 bartenders. I'm trying to figure out an equation to show at what increase  in sales (preferably in percentage) would we all make the same amount of pay adding an extra bartender.    I have last years sales that I could input the sales and see how much busier we'd have to be to make the same amount. 
+
+I just wanna show my boss that if he plans to add an extra bartender we have to be X% busier or do $Y amount more in sales for me as an individual to make the same amount of money. I strongly believe that being 15% busier and adding a bartender will result in me making substantially less money. 
+
+I'm not gonna share where I'm at figuring it out bc I want to see if other people approach this differently. 
+
+Thank you so much, figuring this out is literally the difference between me staying at my job or quitting."
+"I want to make a box and whisker plot where 2 weeks is divided into each quartile, how do I do that? [removed]"
+"I'm a very slow learner. You don't have to be! So I'm taking an undergraduate topology course this semester it's been a whirlwind so far, to say the least. One of the big issues I've been having is to do with continuous functions and all the basic theorems and intricacies surrounding them. You know, the preimage definition and all. I realized tonight while reading the quotient topology section in Munkres that I'm always confused about these things (such as proofs involving continuous functions) because I somehow did not know if a function must always be defined for every element in it's domain. Not knowing this makes thinking about preimages very hard. I simply googled it. It must. Like, by definition. 
+
+Just wow. That clears up so much confusion. I've been stuggling because of this for weeks. I should have learned this in my intro proofs course last year or in intro real analysis last semester. I'm amazed that it took me this long to learn such a basic definition. I hope this is a lesson to anyone who is just a google search away from understanding."
+"What is this infinite cardinal? 2\^2\^2\^2\^2... is a cardinal I find both interesting and confusing. It is equal to its power set(obviously, as 2\^(2\^2\^2\^2\^2...)=2\^2\^2\^2...), meaning it's bigger than aleph 0, aleph 1, etc, my best guess is that it's equal to epsilon 0, but I could be wrong. Also, does this mean that numbers bigger than this are greater than their own power set??? Also, thank you Vsauce for teaching me about infinite cardinals, you're amazing :)"
+"How to imagine powers of x &gt; 3 ? line, squares as area and cubes as volume. How to physically imagine powers of x more than 3 ? Is there any phenomena present in our world that can be represented with powers of x more than 3?"
+"How to draw curve to completely cover a sphere. (Question) I am interested in how to cover a sphere with a curved line (I guess it should just be called “a curve”).
+
+This question arose from some thoughts on physics, but I thought it was basically pure math so I am posting here. Forgive me as I am just an amateur and do not know correct math terminology.
+
+There are two ways to think of this. You could have a line with some width and the question is how to cover a sphere with the curve. Or I imagine you could have a curve that is infinitely thin but you take the limit of something as it goes to infinity.
+
+I am more interested in the method and equations than precise calculations of how long a curve would be necessary.
+
+I first imagined that if the Earth were our model for the sphere, you could start at the north pole and spiral outward tightly until you meet the south pole. I am thinking in terms of a vector traveling on the sphere that, in addition to the change in its angular momentum due to moving on the sphere, experiences an additional change in angular momentum that it does in order to spiral outward. I’m sort of imagining this as a vector of a flatlander that does not know it is on a sphere, but this is really unnecessary for the question. So, I can think of this second change in angular momentum as being in 3D space, or as in 2D space relative to this flatlander’s world.
+
+In any case, this spiraling outward from the north pole would have a clear north and south pole as its solutions. While that is interesting in itself, I am also interested in solutions that do not have clear poles that arise. In that case, I could imagine starting at the equator of the Earth, walking with a slight rotation, and eventually I want to cover the entire sphere.
+
+Any solutions, equations, or advice pointing me in the right direction here would be tremendously appreciated. Parametric equations and polar equations in 3D space, of course, more than welcome and greatly appreciated."
+Learning Math from scratch. Help me. [removed]
+"Probability(%) of something happening after x tries when the chance each time is known Hi,
+
+Trying to find either a website/excel sheet where i can plot in a chance for something happening, and see how many tries i need to have x probability of it happening.
+
+Ex. its 0,08% chance of x to happen, so that gives it a 1/1250 chance. But here comes what i don't know how to calculate. What is the chance of it actually happening after 1250 tries, or 500 or 3000 for that matter.
+
+If you don't know a place i can calculate it, i would also be happy to just know how to do it myself!
+
+Hope that made sense."
+"Must the least upper bound of an open set be contained within the set? Say I have this open set S: [0, 1)
+
+My textbook gives this definition for the least upper bound: M - ε &lt; x ≤ M (where M is the least upper bound, ε &gt; 0, and x ∈ S).
+
+Is it wrong to say the least upper bound of set S is 1? Because if this were the case, it is possible to obtain a number &lt; 1, and then this contradicts the definition of the least upper bound. So, what is the least upper bound of set S?
+
+Thanks"
+"Maximum and minimum points on grid overlapped by moving circle (coin-on-notebook-like) Hi! My question is about mathematically (reliably) getting the minimum and maximum points overlapped by a circle, moving on a square grid, like sliding around a coin on a math notebook:
+
+https://i.redd.it/t7cebdl063t31.png
+
+r is the radius of the circle, uDist is the spacing of the points, and pMax &amp; pMin are the empirical maximum and minimum points overlapped by the circle as it roams around.
+
+Now, I have a decent estimate for pMax: (circleArea) / (spacing\^2). That's approxPMax. It's not too bad.
+
+The problem comes when the circles are small in relation to the grid:
+
+&amp;#x200B;
+
+https://i.redd.it/7td2j3uf63t31.png
+
+https://i.redd.it/yna9eluf63t31.png
+
+On this, a circle can overlap anywhere between 3 and 6 points, both way off from my approximation.
+
+I also figured out that the biggest circle that can overlap 0 points is of radius sqrt(2) \* uDist / 2, in the center of 4 points. Not sure how useful this is. Anyhow.
+
+&amp;#x200B;
+
+Is there a reliable way to determine a good \[pMin, pMax\] of points overlapped by a circle of radius r, in a grid of spacing uDist? Also, since this is for running in the background of a game, my interest is to have a moderately dense grid, so a spacing of 1 pixel is out of the question."
+Need help to figure out a Mathematical algorithm [removed]
+Two's complement is to modular arithmetic as one's complement is to ___. Two's complement with n bits is pretty much just arithmetic modulo 2\^n. Is there any similar correspondence for one's complement? Maybe some kind of system with a positive and a negative zero?
+I just realized that experimental math and looking at the behavior of simple programs is even more reductionist than the rest of math Usually in math the goal is to prove things but what if you want to do math with no goal in mind. This naturally leads to experimental math and looking at the behavior of simple programs. I guess if you really wanted a goal you could say the goal was to construct a theory of everything. Now the reason you would want a theory of everything is because it reduces the uncertainty in the world and uncertainty is associated with anxiety. Some people may view a goal as abstract as this to be vague but I view it as reductionism taken to its ultimate limit
+"Regular expressions Over   the alphabet {0,1} I have to write 3 different expressions for: (10 +   0)\* + ((10)\*0\*)\* + (0+e)\* that specifies the same language, this is  what  I have got so far:
+
+(10 + 0)\*
+
+((10)\*0\*)
+
+I've   noticed that the language that the main expression defines is a   sequence of 0's and 1's such that there can't be 2 or more 1's next to   eachother. The two above expressions represent this language, but im not   sure on the third way of writing it, I was thinking something like (0   0\* 1 0\*)\*?? What are you're thoughts"
+"Someone please help :) Over   the alphabet {0,1} I have to write 3 different expressions for: (10 +   0)\* + ((10)\*0\*)\* + (0+e)\* that specifies the same language, this is  what  I have got so far:
+
+(10 + 0)\*
+
+((10)\*0\*)
+
+I've   noticed that the language that the main expression defines is a   sequence of 0's and 1's such that there can't be 2 or more 1's next to   eachother. The two above expressions represent this language, but im not   sure on the third way of writing it, I was thinking something like (0   0\* 1 0\*)\*?? What are you're thoughts"
+Math question [removed]
+"square root of complex number how to run this :
+
+1. make a new document
+2. copy + paste this into it
+3. save it
+4. change the .txt to .html
+5. double click it
+
+&amp;#8203;
+
+    &lt;!doctype html&gt;
+    &lt;html&gt;
+    &lt;head&gt;
+    &lt;title&gt;square root of complex number&lt;/title&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+    &lt;p&gt;real number&lt;/p&gt;
+    &lt;input id=""input1"" type=""number""&gt;&lt;/input&gt;
+    &lt;p&gt;imaginary number&lt;/p&gt;
+    &lt;input id=""input2"" type=""number""&gt;&lt;/input&gt;
+    &lt;p id=""output""&gt;&lt;/p&gt;
+    &lt;button onclick=""calculate()""&gt;calculate&lt;/button&gt;
+    &lt;script&gt;
+    var A;
+    var B;
+    var C;
+    var D;
+    var E;
+    var F;
+    var G;
+    var M;
+    var N;
+    function calculate() {
+      A = document.getElementById(""input1"").value;
+      B = document.getElementById(""input2"").value;
+      M = Math.sqrt(A*A+B*B);
+      E = (parseFloat(A)+M)/2;
+      F = B/2;
+      N = Math.sqrt(E*E+F*F);
+      G = Math.sqrt(M)/N;
+      C = E*G;
+      D = F*G;
+      if (N == 0) {
+        C = 0;
+        D = Math.sqrt(M);
+      };
+      document.getElementById(""output"").innerHTML = C + "" + "" + D + ""i"";
+    };
+    &lt;/script&gt;
+    &lt;/body&gt;
+    &lt;/html&gt;"
+"How deleterious are non-US Doctoral Programs for getting teaching positions at US Universities? I'm applying to doctoral programs this fall, mostly in applied math (my research interests are network dynamics, graph theory, nonlinear dynamics &amp; chaos, and statistical methods). A few programs I'm looking at are overseas, and I've heard that these are generally less well received when applying to faculty positions at US Universities (as I plan to after completion). This is because many don't usually have teaching requirements as part of the program. You take your classes you may need, take your quals, and then just research without teaching.
+
+What I'm trying to assess is just how much this would impact my future trajectory. I have taken gap years between undergrad and my Master's, and again after my Master's programs because I wanted to teach. I'll have about 4 years of teaching experience from these periods, so I'm wondering if that would attenuate any negative perceptions on my teaching capabilities that might come from not having that as a component of my doctoral program. Can anyone provide any more clarity?"
+"Career and Education Questions This recurring thread will be for any questions or advice concerning careers and education in mathematics. Please feel free to post a comment below, and sort by new to see comments which may be unanswered. 
+
+Please consider including a brief introduction about your background and the context of your question.
+
+---
+
+Helpful subreddits: /r/GradSchool, /r/AskAcademia, /r/Jobs, /r/CareerGuidance"
+Need help with optimization  You have a 35.7 inch wide sheet of metal to make a gutter for a building. The machine you are using to bend the metal only has the ability to make 2 bends. What are the dimensions to maximize the volume that the gutter can hold? Make 2 designs one must have 2 obtuse angles (\\\_/) and the other must have 1 obtuse angle (|\_/ ) (Use ONLY calculus and NO TRIG)
+"How do you calculate the the curve which is needed to rotate a smooth bolt without moving the bolt laterally? Video example in description. [https://youtu.be/U682yOpNafg?t=311](https://youtu.be/U682yOpNafg?t=311)  the mechanism that rotates the bolt without moving it ""backwards"".  How do you calculate that?  Is there a better way to phrase this mechanism?"
+Research ideas for a true crime loving math major? [removed]
+"Can someone calculate how much gold? I took a college course once and there was a way to do it, but I don't remember how. 
+How much gold is in a specimen that is 1mm x 1mm x 1micron?"
+"Help with 2 equations You go to bookstore. A hardcover book is 8$ and softcover is $4. You spend 144 dollars on 36 books. What are the 2 equations to solve how many hardcover/softcover books you buy?
+
+Idk if it's against sub rules but please help"
+"I’m having struggles with equations.. x+3          x-2
+——   +   ——    = 5
+  4               6"
+How do you factor cubic polynomials? How would you factor -3×^3 + 30x^2 -75?
+"[Annoucement AMA] Upcoming AMA with Brendan Fong and David Spivak this October 24th, 2PM EST Good day everyone
+
+As the title says, the purpose of this thread is to **announce** an upcoming AMA with [Brendan Fong](http://www.brendanfong.com/) and [David Spivak](http://math.mit.edu/~dspivak/) on the ocasion of the publication of their new book [An invitation to applied category theory](https://www.cambridge.org/core/books/an-invitation-to-applied-category-theory/D4C5E5C2B019B2F9B8CE9A4E9E84D6BC).
+
+They will be joining us this upcoming **Thursday October 24th** around **2PM EST** or **8PM CET** to answer your questions. The thread will be up earlier in the morning so David and Brendan can go right into responding all your comments.
+
+So mark your calendars and come ready for a very interesting conversation with the authors."
+"Are ε-neighbourhoods always balls? Hello everyone, 
+Today my analysis professor told me that for a given metric space connected neighbourhoods are always balls (even those given by the sup metric). 
+However, when reviewing the Munkres section “Review of topology in R^n” the book stated that balls are a particular case of neighbourhoods in R^n and that when using the sup metric you get a cube. 
+
+Which is true? Are neighbourhoods generally balls or is it a specific case of R^n? Are there metric spaces whose neighbourhoods are not balls? 
+
+Could someone give an example (if possible)? 
+
+Here’s a link to the book:
+[Analysis on manifolds-Munkres](http://fourier.math.uoc.gr/~papadim/calculus_on_manifolds/Munkres.pdf)
+
+The quote is on the “Metrics” section on chapter 2 “Review of topology in R^n”"
+"Need help with this question 4 (3x-5)=-(46+3) 
+I don't understand this question, if someone could explain it for me that would be great, thanks"
+"Is it possible to bring up my GPA from a ~2.8 to a 3.0 or better in one semester? I'm in college and I'd like to have a 3.0 GPA by the end of the semester. GPA calculations confuse me a little since it can differ depending on how schools grade their students. I'm taking 12 credit hours (4 classes of 2 hours, 4 hours, and two 3 hour classes), currently have a cumulative GPA of 2.777, and our university grades by letters with no plus or minus (i.e. anything from 90 to a 100 is an A, no A+ or A-). Is it possible to end this semester with a 3.0 cumulative GPA or better?"
+"Generalizations of Planar Graphs? One key property of a planar graph is that any two (distinct) paths with the same endpoints encloses some (perhaps disconnected) region in the plane. Or in simple terms a planar graph is one where **2** paths enclose a region in R\^**2** (and there is no way of entering the region without encountering one of the paths).
+
+Ok, if you are browsing /r/math, you know where this is going: Is there any special meaning to a graph any three (distinct) paths with the same end points ""enclose"" a region in R\^3?  Of course, what ""enclose"" means is a bit nebulous above R\^2, so that may be part of the issue. However, when viewed topologically it makes more sense: 2 paths in R\^3 would create a the boundary of a 2-dimensional object, and 3 2-dimensional objects can be glued together like panels of an (American) football to ""enclose"" the whole region.
+
+I for the n=3 case, I *believe* what I am looking for is called linklessly embeddable graphs, but I lack the topological background to make the concrete connection. But I feel as though this problem would have been studied more carefully elsewhere.
+
+Any ideas?"
+To purely understand linear algebra would you recommend Linear Algebra Done Right? [removed]
+"Math analysis resources? So I’m in my last year of my undergrad for a BS in mathematics and I am doing HORRIBLE in my math analysis course. I slave away hours studying and trying to complete the homework only to do horrible on every exam so far. We are using introduction to analysis by William Wade which provides very little explanation/examples to everything.  I am so desperate at this point, I’m questioning my major. Can anyone recommend a textbook or online resource or words of encouragement? I could really use them."
+"John Tate died The mathematician John Tate just died according to this tweet from Serre's daughter: https://mobile.twitter.com/claudinemonteil/status/1184557827723059203
+He was a famous mathematician known for his works in number theory, algebraic geometry,..."
+10(x+5)-15 Guys my math teacher is confused.
+"Math Does 0°c + 0°c = 64°f 
+
+My math behind this is: 0°c =32°f . So there for the question 0°c +0°c is also at the same time asking 32°f + 32°f which either way would equal 64°f"
+"Do you ever feel guilty for not working on something related to climate change? I realize this isn't true of all math people. Some people are working on applied mathematics that could contribute to the climate, some people are working on more hard-scientific things, and even some of you might work on financial things that, indirectly, *might* (bit of a stretch) help fight climate change.
+
+But for the vast majority of mathematicians per se, their work has nothing to do with our generation's greatest problem, and it's hard not to feel a bit of guilt.
+
+Just a dumb undergrad btw"
+"If 1/4=0.25, 1/2=0.5, then what is X in 1/X that makes it 0.75 ? "
+"Quickly solving whether extremely large numbers are prime without a computer   
+
+I am not a mathematican, but it appears to be possible to crack any prime number no matter how large using a simple sequence of numbers. For example, any number that ends in 3 increases the last digit (ones column) in a sequence of 3, 6, 9, 2, 5, 8, 1, 4, 7, 0 and then the sequence repeats indefinitely. any number that ends in 7's sequence is 7, 4, 1, 8, 5 ,2, 9, 6, 3, 0 before repeating. Another example is the number 97, which since it ends in 7, will always follow the 7's sequence. 97 X 2 = 194 (4 is the 2nd number in the sequence), 97 X 6 = 582, and the 2 is also the 6th number in the sequence. 97 \* 24 = 2,3,28 and 8 is the 24th number int he sequence. 
+
+   
+ 
+
+So using this sequence, one can simple take a very large number like 7,364,587 find a close multiple of 7 that is also a multiple of 10 (because the 10th number in 7's seqeunce 0, making it a multplie of 10 and allowing you to immediately know you start at the beginning of the sequence with the first number being 7), so 7 X 1,052,080 = 7,364,560. Now all I need to do is count off 27 numbers in the sequence,(27 because 7,364,587 is 27 more than the sum of 7 X 1,052,080 (7,4,1,8,5,2,9,6,3,0,7,4,1,8,5,2,9,6,3,0,7,4,1,8,5,2,9) Now, since the last digit in that sequnce is 9, I know that 7,364,587 cannot be divided by 7 because, followin the sequence, the number must end in 9. Since it ends in 7 (NOT WHEN IT IS SUPPOSE TO OCCORDING TO THE SEQUENCE) we know 7,364,587 cannot be divided by 7.
+
+This will work with any number and all you need are the starting sequences of the number 1-9, then whatever large number it is, find a close multiple (like 8's seqeunce is 8,6,4,2,0 since 0 is the 5th number, any multiple of 5 or 10 will work to start) and boom, you can very quickly find out if any number is prime/create any prime number very quickly, without a computer. The numbers 3, 7 and 9 all have a sequnce whether the last number (also teh 10th number) in te seuqnce ends in 0, allowing you to quickly start from a close multiple of 10 of whatever large number it is.
+
+Again i am not a mathemetican, is there a flaw here I am unaware of?"
+"A little challenge Say I have a number that starts with a non zero value and ends with a non zero value with zeros in between, for example 3009.
+
+Given N is a positive integer, what is a formula that would interject N zeros into any given number of the form described above?  For example, with the starting number 20007, N=2, how do I get to 2000007?
+
+You can use the following operations:
+
+Addition, subtraction, multiplication, division, exponents, logarithms, trig functions.  No modulo."
+Tweeted [removed]
+"I wrote this proof along a classmate, I was hoping to get some feedback here Hi, so, as the title says, my classmate and I have written this proof for this multivariable calculus theorem (extreme value theorem for R^2 -&gt; R functions). [Link](https://gofile.io/?c=lMMAQm).
+
+We did this while we were taking some calculus/analysis courses, since the proof presented by our professors was a nightmare (See Tom Apostol's Calc II proof, it was pretty similar). We did some research in some of the most mainstream books and we found that the proofs presented were either similar to Apostol's proof (that is, a pain in the ass) or required some topology background (which we had none) such as Spivak's proof presented on his book Calc on manifolds.
+
+That led us to work a proof on our own, which brings us here. We wanted to share this for some feedback, mostly to ask you this
+
+* Do you think it's correct and/or useful?
+* Is it original? (we've done it by ourselves, however someone might have done it before)
+* If both above are yes, you guys think we should publish it, and where could we do it? For the record we are undergraduate students at this very moment.
+
+That covers most of it. Hope you enjoy the reading and if some of you are taking or teaching multiv calc I hope you find it useful."
+"If someone were running 600mph, how long would it take to visit every state capital except Juneau, AK and Honolulu, HI? This person would start in Atlanta, Georgia. What is the shortest possible trip to take? How long would it take?"
+"Password Cracking Any takers?
+
+https://i.redd.it/m06bnhzs5ts31.png"
+"Geometry Question about Enclosing Hexagons In any random map of hexagons, is it possible to have a simple shape or system (besides hexes) to enclose them?
+
+Me and a friend have tried different forms of parallelograms and trapezoids, and the current solution is to have two trapezoids, one with its longest side the length of the hexagons, and the other with its shortest side the length of the hexes."
+"Code Decipher Level 2 Any takers?
+
+*Processing img oe2mqcrw8ts31...*"
+"Decipher Code Level 3 &amp;#x200B;
+
+||||
+|:-|:-|:-|
+||||
+
+&amp;#x200B;
+
+https://i.redd.it/hj2ba5rlbts31.png"
+"This is cheesy, but is there anything that showed you the “beauty” of math? Or just how cool it is? I am struggle to find anything interesting about it quite frankly. -Your average struggling student."
+Why is it important to simplify trigometric expressions important? [removed]
+NEED HELP WITH HW PLS [removed]
+Can I get math help [removed]
+"I have a question on my homework, and i can figure it out for the life of me. [removed]"
+What are some habits you're glad you inculcated in your undergrad? Something that worked for you and would suggest to others as well.
+"Math lapel pin Andrew Yang Math lapel pin during the 4th democratic debate was pretty sick, i mean refreshing."
+"How to figure out the weighted average of two percentages (please help!) So I have a Biology class with a lab that has a separate grade from the main class. The Lab's grade is worth 25% of the final Bio grade. So how can I calculate what my final percentage would be? I don't even know how to Google this so that's why I'm posting here. For example, if I got a 95% in the main class that's worth 75% of the grade and a 85% in the lab, worth 25%, how can I figure out what the final grade will be??"
+FSM quesiton [removed]
+y(x+dx)=y(x)+......... HELP! what's missing there?
+Integer Equation Solution Proof How do i prove that 20x^2 - 19y^2 = 2019 has no Integer Solution? If you can please explain in steps
+"Why are square roots defined to be positive? So Im in first year of high school and just realised that square roots are actually defined to have a positive result.
+
+But almost all of the time you need to write/use +-sqrt() anyways, so is there any good reason to not define a square root as the positive AND negative value?"
+"Textbooks for an Engineer Hi r/math. I'm a student who's currently studying Electronic &amp; Computer Engineering. I'm pretty competent at math, and considered doing a degree in theoretical physics at one point (the one I looked at 2/3 pure mathematics modules, and 1/3 physics modules). I, however, decided to go into Engineering because I knew it'd interest me, the idea of building practical applications of what I learned also appealed to me.
+
+I'm fine with how were taught, except when it comes to Mathematics. Modules in mathematics we take are titled ""Mathematics for engineers I, II, III, IV"". I'm currently on part 3 - will be doing part 4 next semester. We're studying ordinary differential equations. My complaints are:
+
+1. My ability at the stuff we studied before isn't great - I dealt with a drug addiction which led to me doing first year twice. Even when I came out I just studied for the exam - I passed, but I don't remember the linear algebra, complex numbers, and never learned numerical methods of integration. 
+2. I don't like the way the book is structured. It moves quickly, and while I don't want to stand around learning proofs all day - I'd like to build my conceptual understanding of math - it seems like one of the best ways to make me a better engineer.
+3. So basically, I'm looking for mathematics textbooks. I'd like some detail, but don't want to be reading huge books for every topic - I just don't have the time as I'm studying Circuits, Digital &amp; Analogue design, Operating Systems, Data Communication and a filler ""enterprising"" module.
+4. I'm good working with functions - however some more couldn't hurt. I'm looking for stuff that covers the following:
+
+&amp;#x200B;
+
+* Functions (esp. trigonometric identities).
+* Co-ordinate systems
+* Discrete math
+* Sequences and series
+* Vectors + Matrix Algebra
+* Complex numbers
+* Calculus
+
+&amp;#x200B;
+
+Basically, I'll need books that help my conceptual understanding. For me, understanding is number one - I can always remember once I understand. Due to me problems the last couple years, I'm willing to spend extra time on math. I'm getting my life in order and I'm going to be the best engineer in my class."
+Is it possible to integrate two different Leslie matrices? 
+Discrete question Hello I have a question regarding graph theory. Supose we have a complete graph. How many different paths of a certain length would that graph contain?
+"Hello, I'm 13 and I want to learn algebra stuff. What should I start with? Just precise I'm 13 in case you suggest some 20th grade math book. I just want to get started with algebra stuff because I'm interested in math stuff. I have a friend almost my age and he knows trigonometry and calculus and all that stuff soo yeah
+How should I learn algebra and what should i start with"
+"Liberal arts major to take GRE mathematics subject test Hello! 
+
+I have a bachelors degree in English and in the past four years I have done no math. 
+
+I'm exploring the possibility of applying for a financial economics masters, the requirement is a score of 600+ on the GRE mathematics subject test. 
+
+Knowing that the test is scheduled for April 4th 2020(6months from now), what should I focus on to get the 600+ score? 
+
+PS: I am fine with skipping entire sections of the test as long as I can get a 600+ score. 
+
+Thank you!"
+"Linear Algebra question, finding LU of a matrix [removed]"
+"I'm having a hard time answering this problem since this morning How many ways can you make P26 using P10, P5 or P1 coins?"
+"Infinite Right Triangle Paradox? First time poster, go easy on me.
+
+So i was in my 12th grade AFM class yesterday looking at a unit circle, and had a thought.
+Imagine a right triangle (ABC). C is the hypotenuse. Side B is perpendicular with side A, obviously. Side C connects with side A (Angle B) at an angle of 89.99999999999...
+
+My question is, Do side B and side C ever intersect. They are not parallel, so the answer is yes, right? My issue with this logic is that we cant say when they do intersect. If we found where they intersect, we can just put another 9 on the end of the 89.999999999... and it would intersect farther and farther away. We can do this forever.
+
+After thinking about this question for a day, I had another thought.
+
+Imagine standing on a perfectly flat plane. In front of you, say, 10 feet away, is an infinitely tall pole, perpendicular to the plane. At what angle of elevation would you have to look at to see the top of the pole?
+
+You couldn’t look at a 90 degree angle, because that would just be parallel with the pole. But you you just looked at an 89.9 degree angle, you would be looking at a point 5,729.57 feet up the pole, not accounting for the hight of the viewer.
+An 89.99 degree angle would be 57,295.8 feet up. (These calculations are according to my TI n-spire cx2 cas. Im not sure how accurately it handles these types of trig questions, but the point stands.)
+
+What do you think of this? Has this type of thing already been uncovered? If not, I suggest the name “The Palmer Triangle Paradox”."
+Physics Teachers who Love Math! Please help! [removed]
+"Solving this work style high school math thing I have no idea how to solve! Help There is an urgent client who wants 250 links reviewed. There’s only 6 people to review this.
+However there is a 25000 backlog (videos left to be reviewed) left and there’s 500 coming in each day. Each backlog is 20 seconds each. 
+Clients work 7 hours
+What should the process be to complete the 250 and how many people should be assigned to the 25000?"
+Gelp So 10÷3 is 3.3333. If we multiply that number by 3 its 9.9999. Whare did the 0.0001 go???
+"Sources to learn about the fundamental history of maths Hello, all! I am someone who is hopefully going to be able to study applied maths when I go to university next year. I am currently, on my own time, brushing up on all of the concepts which I have found myself being somewhat hazy on. I have come face-to-face, however with a problem: I feel disconnected. I enjoy maths a lot, and I admire it, but my relationship with the subject, I realised, is coated in this sense of remoteness. Part of the reason I felt so annoyed and irritated and bored by maths in high school is because I didn't truly *understand* it. I didn't know the history behind it and the reasoning and motivation behind all of the concepts. Maths should not be treated as just walls of obscure equations, shapes, and graphs that only genius, otherworldly type of people can comprehend and make sense of. What are some books, websites, videos, etc. by which I can learn about the history of maths as penetratingly as possible? Thanks."
+"Tweeted I have a new Youtube video: Mersenne prime numbers, Description: Mersenne prime numbers My Numerade profile link is:https://t.co/K3k8MlsevP, Link: https://t.co/cwClZ7qdUt — Online Math tutor (For Hire ) (@Kr\_freelance) October 16, 2019
+   
+ from Tumblr https://ift.tt/2MIjY0C
+   
+ via [IFTTT](https://ifttt.com/?ref=da&amp;site=reddit)"
+Mersenne prime numbers [removed]
+Tutor worried that a student has dyscalculia [removed]
+"Could someone explain the concept of Tensors? I am familiar with Linear Algebra and calculus 1 and 2, and I’ve been looking for definitions and explanations of tensors but they vary wildly. One definition was even something to the effect of “A tensor is a mathematical object that transforms like a tensor”"
+"What Are You Working On? This recurring thread will be for general discussion on whatever math-related topics you have been or will be working on over the week/weekend. This can be anything from math-related arts and crafts, what you've been learning in class, books/papers you're reading, to preparing for a conference. All types and levels of mathematics are welcomed!"
+Calculation of possible outcomes of a mixed character number (hex) [removed]
+"What is the probability? Hi, 
+I have a question. Assume that the probability of one component failure in a system is 0.05 and the failure is independent of each other. How many components should the system have inorder to have only one failure in the whole system? 
+
+Can someone help me with solving this? 
+Thank you :))"
+"Tweeted Mersenne prime numbers Mersenne prime numbers My Numerade profile link is:https://t.co/K3k8MlsevP https://t.co/cwClZ7qdUt — Online Math tutor (For Hire ) (@Kr\_freelance) October 16, 2019
+   
+ from Tumblr https://ift.tt/2oDZAWC
+   
+ via [IFTTT](https://ifttt.com/?ref=da&amp;site=reddit)"
+"If there are 8 people in a giveaway of 45 items, what are the chances of winning for each person? Irl situation not homework"
+"Why are there infinitely many times more irrational numbers than rational numbers? I really need an explanation, ifeellike it but i have no idea why."
+"Tutor worried that a student has dyscalculia Hi all!  
+
+
+I'm not sure if this is the right subreddit for this. Gonna try this and r/learnmath.  
+
+
+A little background: I'm a full time private freelance math tutor, and I've been doing this as my full time job almost 3 years. I normally tutor what most of you would think of as high school to middle of university, lots of calculus, statistics, and linear algebra... but once in a while I accept a younger student. I'm not as experienced with it, so I warn the parents, but it still usually works out well enough.
+
+  
+The current student in question is one I've only met twice. They are in grade 8, and are clearly somewhat behind in math - but I'm used to that. The issue is, there are some very basic things that don't seem to add up for them. At this age I would have expected basic addition and small multiplication to work out relatively cleanly, but I've seen answers like 9+2 = 10, 17-7 = 12, and even 12-7 = 15.  
+
+
+How can I tell if this is dyscalculia, or otherwise beyond my pay grade? Is this just normal for a student that age who's way out of practice?
+
+  
+As a freelance guy, not supported by any major company, what's my ""move"" here? Do I warn the dad that the child may be outside my level of expertise? From what I've heard they've met a few tutors and I'm so far the favourite, but I'm worried I'm not skilled enough for this task.
+
+  
+Thanks a lot!  
+Paul"
+"How to get rid of a -1 exponent? Stupid question but it confused me. 
+
+&amp;#x200B;
+
+I am doing inverse functions and i need to get rid of a -1 exponent of a parenthesis, but I am unsure how to do it.
+
+&amp;#x200B;
+
+Usually we get rid of such exponents with a root or a root with a number in front of it for higher exponents than 2."
+What are your experiences as applied math PhD grad students? What is your area and what is your career (plan)? [removed]
+A math problem I can’t solve cuz I dumb [removed]
+Tweeted [removed]
+"question about the intersection of the vector space of all symmetric matrices and the vector space of all negative symmetric matrices. so one question if i got this right.
+
+(0 1 0 )
+
+(1 0 0 )
+
+(0 0 0 ) is one base of the vector space of the symmetric matrices
+
+(0 -1 0 )
+
+(1 0 0 )
+
+(0 0 0 ) is a base of the vector space of the negative symmetric matrices.
+
+theyre not the same, thus the intersection of the vector space of all symmetric matrices and the vectorspace of of all negative symmetric martrixes is 0.
+
+the intersercion of all 9dimensional matrices and all negative matrices would be thus 3.
+
+because
+
+(a b c )
+
+(d e f )
+
+(g h i ) here the b can be -1 and the d can be +1, which would intersect with the base 
+
+(0 -1 0 )
+
+(1 0 0 )
+
+(0 0 0 )  of the vector space, thus the dimension of the intersection would be 3?
+
+am i right?
+
+i hope i got it, sorry guys if i made it look chaotic, hoping for help!"
+"Question about exp(z) = z Hi all, I've been reading and learning about complex analysis out of interest recently. I'm an engineering graduate who kind of wants to be a mathematician more than an engineer, and the maths I employ in my engineering post-grad isn't scratching that itch.   
+
+
+I wondered what the solutions of exp(z) = z would be. I worked through some algebra and got stuck after a bit, so I used fixed point iteration in MATLAB to see if I had at least got the right idea. The solutions I found ended up being true solutions, so I was pretty happy with that, but then I noticed that if I plotted them in the complex plane, they followed a familiar shape. Following some guess-and-check tactics, I found that all of the solutions seemed to almost exactly line up with the curve y = 2\*cosh(x), but with some small, decreasing error as the real component of the solution grows.   
+
+
+I can't for the life of me figure out why this would be, and I'm not sure whether the error is due to the numerical approximation method (it doesn't seem to be, increasing the number of steps doesn't affect it), or whether it's baked into the maths. Does anyone know anything about this?"
+HELPPP algebra [removed]
+"Anybody who didn't pursue anything past undergrad, do you still practice maths? Three years after graduation, I decided it's time to be the person I know I can be and pursue an Actuarial career. I'm currently refreshing myself for the Probability exam by going through the works of basic set theory.
+
+&amp;#x200B;
+
+One result I never knew: The cardinality of the power set of natural numbers is a continuum. That must mean there exists a function in bijection with the reals, right? I'm looking at the proof on proofwiki, and it's all so interesting."
+Tweeted [removed]
+"Scared that I'm going to fail my math test tomorrow? Hi,
+
+Tomorrow I have a math test and I'm so stressed and down that, I feel like even if I studied I'm still going to end up failing the test.
+
+And the thing is, this is the last test that will we determine whether or not I fail my class. I've gone to tutoring, and it's been alright I guess, but it's also kind of too late in the game to really do anything to bring up my grade in the class.
+
+I'm just worried I'm going to fail this class, and like it's not like I'm going to study and everything is going to suddenly come back to me.
+
+: /"
+"What makes a fractal look organic or artificial? Fractals may be generated from similar rules, but only very specific ones look organic.  
+Example, this looks organic:  
+
+
+[organic fractal](https://i.redd.it/n84lm3yf7zs31.png)
+
+but this looks artificial:  
+
+
+https://i.redd.it/oade16am7zs31.png
+
+Why?"
+Big O notation I have a midterm on tuesday for my discrete math class. Can someone give me an overview of how I would approach a big O problem (e.g show that xlogx is O(x\^2)).
+"For Geometry Find the coordinates of the midpoint of GH with endpoints G(3a, 3a) and H(-a,-7a). 
+
+There are no numbers but just variables so I’m kinda confused"
+"Please help A farmer has a sale on eggs, selling 13 eggs for the usual price of a dozen eggs. As a result, the price of eggs is reduced by 24 cents a dozen. What was the original price for a dozen eggs?"
+Math question [removed]
+"Most important concepts in Alg I What are the absolute most important concepts students should know by the time they leave Alg I? 
+
+
+Co-teacher here. I am not certified in math but co-teach in math. Due to a shortage in certified math teachers, we have subs circulating as the other co-teacher. So basically, I’m teaching the class. It’s fine bc I can pace the class. Last year’s Alg I teacher was the typical math teacher: here’s some examples, now here’s an assignment and then here’s homework that’s just like the assignment you just did. This teacher was all about plowing forward, no matter if the kids understood anything or not. Didn’t matter their grades. The entire class flunked a quiz but instead a re-teaching he just moved on to the next thing. Wouldn’t let me actually co-teach or do anything. Treated me like an aide despite voicing my concerns. Nothing fun ever. 
+Soooo I do not miss that and decided now I can pace the class to not leave anyone behind. However, I feel like we are spending too much time on multi step equations and feel like I should move on. But that doesn’t sit right with me. The quiz they took Tuesday....over half the class failed. Even though we’ve already spent two weeks on equations (using interactive notes and scaffolding, started with basic one step now into multi step), I feel like they still don’t get it and they need more practice and repetition. Like, they really need to understand how to solve these types of equations. 
+Ok, my original question:what are the absolute most important concepts students should know by the time they leave Alg I?"
+"64÷4(1+3) Does it make 64 or 4? My calculator gives me the answer 4 but my friends gives him 64
+
+Why's this?"
