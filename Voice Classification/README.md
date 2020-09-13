@@ -1,9 +1,9 @@
 
-<img src="https://pbs.twimg.com/profile_images/813584000082214912/5U3iZVs-_400x400.jpg" width="100" height="100" alt="GA" img align="right">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crunchbase.com%2Forganization%2Fgeneral-assembly&psig=AOvVaw0j4FTphH6c3vOhKXf1aRI0&ust=1600049700266000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjs2-OH5esCFQAAAAAdAAAAABAP" width="100" height="100" alt="GA" img align="right">
 
 # VOICE CLASSIFICATION
 
-<img src="https://cdn.ttgtmedia.com/rms/onlineImages/mobile_computing-mobile%20biometrics_05.png" width="600" height="300" alt="voice" img align="center">
+<img src="https://cdn.ttgtmedia.com/rms/onlineImages/mobile_computing-mobile%20biometrics_05.png" width="800" height="400" alt="voice" img align="center">
 Project by <a href="https://www.linkedin.com/in/jurgen-arias-02371117/" rel="nofollow">Jurgen Arias</a>.
 
 <br></br>
