@@ -1,5 +1,5 @@
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crunchbase.com%2Forganization%2Fgeneral-assembly&psig=AOvVaw0j4FTphH6c3vOhKXf1aRI0&ust=1600049700266000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjs2-OH5esCFQAAAAAdAAAAABAP" width="100" height="100" alt="GA" img align="right">
+<img src="https://photos.angel.co/startups/i/52465-5a0924aaaf6af2265c6bb823b7613658-medium_jpg.jpg?buster=1343285695" width="100" height="100" alt="GA" img align="right">
 
 # VOICE CLASSIFICATION
 
