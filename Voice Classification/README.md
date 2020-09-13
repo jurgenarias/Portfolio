@@ -99,6 +99,8 @@ Just like in the urban classifier problem, we created images from our data that 
 
 We could combine these two models with a voting classifier and get a better accuracy or train the models with more data to make them more accurate but we have a time constraint and want to implement this model to be able to use it for an interactive demonstration and the CNN model's process takes too long. It takes a long time to create the images and also to fit the model so we will use the NN with 97% accuracy since it is fast and accurate.
 
+<br></br>
+
 ## Future Explorations:
 
 - We would like to gridsearch over the best parameters on our CNN and see if we could get the same or better accuracy than our Dense Layered Neural Network. This could also be done by uploading the data and using Google Colab since they provide free GPU usage that make Neural Networks run considerably much faster. If your laptop takes 4 hours to fit a neural network, Google Colab can probably do it in 15 minutes. If Google Colab sounds interesting, I recommend reading this blog post from my friend and colleague Brenda Hali about Google Colab: https://towardsdatascience.com/google-colab-jupyter-lab-on-steroids-perfect-for-deep-learning-cdddc174d77a.
