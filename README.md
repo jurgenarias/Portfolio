@@ -6,6 +6,7 @@ Built feed-forward dense neural networks and convolutional neural networks to pr
  
 <br></br>
 <img src="https://img.pngio.com/black-line-kazapsstechco-black-line-png-904_258.png" width="1100" height="20" alt="voice" img="" align="center">
+<br></br>
 
 <img src="https://i.imgur.com/muqLVP3.png" width="600" height="300" alt="voice" img="" align="center">
 
