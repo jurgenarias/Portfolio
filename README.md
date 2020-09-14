@@ -5,6 +5,7 @@
 Built feed-forward dense neural networks and convolutional neural networks to predict the speaker of an audio clip from 115 different speakers with a 99.8% accuracy and also predicted his/her gender with a 95% accuracy.
  
 <br></br>
+<img src="https://img.pngio.com/black-line-kazapsstechco-black-line-png-904_258.png" width="1100" height="20" alt="voice" img="" align="center">
 
 <img src="https://i.imgur.com/muqLVP3.png" width="600" height="300" alt="voice" img="" align="center">
 
