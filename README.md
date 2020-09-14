@@ -1,5 +1,3 @@
-# Portfolio
-
 ### [NEURAL NETWORKS FOR VOICE CLASSIFICATION](https://github.com/jurgenarias/Portfolio/tree/master/Voice%20Classification)
 
 <img src="https://cdn.ttgtmedia.com/rms/onlineImages/mobile_computing-mobile%20biometrics_05.png" width="600" height="300" alt="voice" img="" align="center">
