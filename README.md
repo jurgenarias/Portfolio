@@ -15,7 +15,7 @@ Built feed-forward dense neural networks and convolutional neural networks to pr
 Used Google Street View, Google Geolocation and Zillow APIs to develop a flask web app to help FEMA in assessing property damage after a natural disaster
 
 <br></br>
-<img src="https://img.pngio.com/black-line-kazapsstechco-black-line-png-904_258.png" width="1100" height="20" alt="voice" img="" align="center">
+<hr>
 <br></br>
 
 ### [CLASSIFICATION MODELS USING NATURAL LANGUAGE PROCESSING WITH REDDIT API](https://github.com/jurgenarias/Portfolio/tree/master/Subreddits%20NLP)
