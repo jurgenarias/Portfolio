@@ -4,9 +4,9 @@
 
 Built feed-forward dense neural networks and convolutional neural networks to predict the speaker of an audio clip from 115 different speakers with a 99.8% accuracy and also predicted his/her gender with a 95% accuracy.
  
-<br></br>
-<img src="https://img.pngio.com/black-line-kazapsstechco-black-line-png-904_258.png" width="1100" height="20" alt="voice" img="" align="center">
-<br></br>
+<br>
+<hr>
+<br>
 
 ### [GOOGLE AND ZILLOW APIS HELPING FEMA ASSESS PROPERTY DAMAGE](https://github.com/jurgenarias/fema-damage-assessment)
 
@@ -14,9 +14,9 @@ Built feed-forward dense neural networks and convolutional neural networks to pr
 
 Used Google Street View, Google Geolocation and Zillow APIs to develop a flask web app to help FEMA in assessing property damage after a natural disaster
 
-<br></br>
+<br>
 <hr>
-<br></br>
+<br>
 
 ### [CLASSIFICATION MODELS USING NATURAL LANGUAGE PROCESSING WITH REDDIT API](https://github.com/jurgenarias/Portfolio/tree/master/Subreddits%20NLP)
 
@@ -24,9 +24,9 @@ Used Google Street View, Google Geolocation and Zillow APIs to develop a flask w
 
 Built several binary classification models using Natural Language Processing (NLP) and reddit’s API to classify over 150k posts. Used tableau to visualize best models and parameters. Best model had an accuracy of 95% on validation data
 
-<br></br>
-<img src="https://img.pngio.com/black-line-kazapsstechco-black-line-png-904_258.png" width="1100" height="20" alt="voice" img="" align="center">
-<br></br>
+<br>
+<hr>
+<br>
 
 ### [BUILDING A LINEAR REGRESSION MODEL TO PREDICT HOUSE PRICES](https://github.com/jurgenarias/Portfolio/tree/master/Predicting%20House%20Prices)
 
