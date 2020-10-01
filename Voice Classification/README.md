@@ -6,7 +6,7 @@
 <img src="https://cdn.ttgtmedia.com/rms/onlineImages/mobile_computing-mobile%20biometrics_05.png" width="800" height="400" alt="voice" img align="center">
 Project by <a href="https://www.linkedin.com/in/jurgen-arias-02371117/" rel="nofollow">Jurgen Arias</a>.
 
-<br></br>
+<br>
 
 
 ## Contents
@@ -19,7 +19,7 @@ Project by <a href="https://www.linkedin.com/in/jurgen-arias-02371117/" rel="nof
 - [Future Explorations](#Future-Explorations)
 - [Sources](#Sources)
 
-<br></br>
+<br>
 
 ## Problem Statement
 
@@ -29,7 +29,7 @@ Imagine a conference room, a meeting is taking place. There are several people, 
 
 We will tackle these problems by using Machine Learning with Neural Networks.
 
-<br></br>
+<br>
 
 ## Summary of Project
 
@@ -43,7 +43,7 @@ We used an NN model for predicting a classification among 115 speakers and got 9
 
 We used an NN model for predicting gender and got 99.8% accuracy when classifying the gender of speakers that the model had listened to before. We got new data from speakers that the model had never heard before and got a 95% accuracy.
 
-<br></br>
+<br>
 
 ## Urban Sound Challenge:
 
@@ -73,7 +73,7 @@ We built a convolutional neural network with a Conv2D and MaxPooling2D input and
 
 We decided that since we have two models that do the same thing, we might as well use them together. We got the predictions probabilities for each class from our NN and the predictions probabilities for our CNN and added them together and got the maximum for each one. In other words, if my NN was 65% sure that a sound was some children playing and my CNN was 95% sure it was instead street music, then street music would have a higher probability thus my prediction would have to be street music. We did this and bumped our predictions to be 95% accurate on never before seen test data. I found this to be an amazing way to combine different models together to have better predictions.
 
-<br></br>
+<br>
 
 ## Speaker Classifier
 
@@ -85,7 +85,7 @@ We used 115 different speakers both male and female where the minimum number of 
 
 We fitted the data into a neural network model with the same configuration of our gridsearched model from the Urban Challenge and got a whopping 99.8% accuracy. We predicting on 1312 audio samples and classified them into the 115 speakers and only got two audio samples wrong. The model only took 20 seconds to fit and it was almost perfect so we decided it was not necessary to do the CNN model.
 
-<br></br>
+<br>
 
 ## Speaker's Gender Classifier
 
@@ -99,7 +99,7 @@ Just like in the urban classifier problem, we created images from our data that 
 
 We could combine these two models with a voting classifier and get a better accuracy or train the models with more data to make them more accurate but we have a time constraint and want to implement this model to be able to use it for an interactive demonstration and the CNN model's process takes too long. It takes a long time to create the images and also to fit the model so we will use the NN with 97% accuracy since it is fast and accurate.
 
-<br></br>
+<br>
 
 ## Future Explorations:
 
@@ -111,7 +111,7 @@ We could combine these two models with a voting classifier and get a better accu
 
 - We would also like to fit a Recurrent Neural Network and see how accurate it is since they are good with time series data and voice clips are basically time series.
 
-<br></br>
+<br>
 
 
 ## Sources:
